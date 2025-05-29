@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vinay Rawat!
 
-🌟 Android Developer | 🌐 Building scalable and user-friendly applications  
+🌟 Android Developer | 🌐 Building scalable and user-friendly applications.  
 🚀 Passionate about transforming ideas into reality using modern technologies.  
 
 ---
