@@ -71,7 +71,7 @@
 ## 📬 Contact Me
 - 📧 Email: [rawatabd123@gmail.com](mailto:rawatabd123@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/rawatvinay4](https://www.linkedin.com/in/rawatvinay4)
-- 🐙 GitHub: [github.com/vinayrawat4](https://www.linkedin.com/in/rawatvinay4)
+- 🐙 GitHub: [github.com/vinayrawat4](https://github.com/vinayrawat4)
 
 ---
 
